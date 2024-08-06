@@ -1,4 +1,3 @@
-Your `README.md` file looks great! Here’s the updated version with the corrected repository URL and the accurate directory path for the Next.js content:
 
 ```markdown
 # Book Management System
@@ -131,4 +130,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Tailwind CSS** - A utility-first CSS framework.
 ```
 
-This should align everything correctly with your project setup and repository structure!
