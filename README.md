@@ -95,32 +95,6 @@ The **Book Management System** is a full-stack application designed to manage a 
 - `PUT /books/:id` - Update an existing book by ID.
 - `DELETE /books/:id` - Delete a book by ID.
 
-## Testing
-
-### Backend Testing
-
-Run unit tests for the NestJS API:
-
-```bash
-npm run test
-```
-
-### Frontend Testing
-
-Run integration tests for the Next.js application:
-
-```bash
-npm run test
-```
-
-## Contributing
-
-We welcome contributions to improve the project. Please follow the [contributing guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **NestJS** - A progressive Node.js framework.
