@@ -102,12 +102,11 @@ The **Book Management System** is a full-stack application designed to manage a 
 - **MongoDB** - A NoSQL database.
 - **Mongoose** - MongoDB object modeling tool.
 - **Tailwind CSS** - A utility-first CSS framework.
-```
-
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031042.png)
-![Screenshot 2](https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031056.png)
-![Screenshot 3](https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031111.png)
+<img src="https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031042.png" width="700" alt="Screenshot 1">
+<img src="https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031056.png" width="700" alt="Screenshot 2">
+<img src="https://github.com/atta541/Book-store/blob/main/Screenshot%202024-08-07%20031111.png" width="700" alt="Screenshot 3">
+```
 
