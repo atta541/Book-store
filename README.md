@@ -1,3 +1,4 @@
+Your `README.md` file looks great! Here’s the updated version with the corrected repository URL and the accurate directory path for the Next.js content:
 
 ```markdown
 # Book Management System
@@ -29,8 +30,8 @@ The **Book Management System** is a full-stack application designed to manage a 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/book-management-system.git
-   cd book-management-system/books-api
+   git clone https://github.com/atta541/Book-store.git
+   cd Book-store/books-api
    ```
 
 2. **Install Dependencies**
@@ -60,7 +61,7 @@ The **Book Management System** is a full-stack application designed to manage a 
 1. **Navigate to the Frontend Directory**
 
    ```bash
-   cd ../books-frontend
+   cd ../books-frontend/books
    ```
 
 2. **Install Dependencies**
@@ -71,7 +72,7 @@ The **Book Management System** is a full-stack application designed to manage a 
 
 3. **Configure Environment Variables**
 
-   Create a `.env.local` file in the `books-frontend` directory with the following content:
+   Create a `.env.local` file in the `books` directory with the following content:
 
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3000
@@ -130,3 +131,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Tailwind CSS** - A utility-first CSS framework.
 ```
 
+This should align everything correctly with your project setup and repository structure!
