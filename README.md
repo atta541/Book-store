@@ -53,7 +53,7 @@ The **Book Management System** is a full-stack application designed to manage a 
    npm run start
    ```
 
-   The backend server will be available at `http://localhost:3000`.
+   The backend server will be available at `http://localhost:3001`.
 
 ### Frontend Setup
 
